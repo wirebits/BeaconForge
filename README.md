@@ -41,7 +41,7 @@ An ESP8266-based WiFi beacon tool that broadcasts configurable or randomly gener
 
 # Using Serial Console
 1. Open Serial Console by click [here](https://wirebits.github.io/SerialConsole/).
-2. Select baud rate 115200.
-3. Click on Connect button.
-4. When it shows Connected! Go On! only then your ESP8266 board is ready otherwise repeat steps 2 and 3.
-5. Type `help` to get available commands.
+2. Click on Connect button.
+   - In pop-up, select your device.
+   - Click on `Connect` button.
+3. Type `help` and hit enter to get list of available commands.
