@@ -1,6 +1,6 @@
 /*
  * BeaconForge
- * An ESP8266-based WiFi beacon tool that broadcasts configurable or randomly generated SSIDs over the 2.4 GHz band.
+ * An ESP8266 tool that sends custom or random fake SSIDs over 2.4 GHz Wi-Fi.
  * Author - WireBits
  */
 
